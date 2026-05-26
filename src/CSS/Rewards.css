@@ -1,0 +1,177 @@
+
+
+.empty_box{
+  height: 45px;
+  width: 45px;
+  background: #fff;
+  border-radius: 6px;
+  margin-right: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.first_div_rewards{
+  display: flex;
+  align-items: flex-start;
+  padding-top: 20px;
+  padding-left: 20px;
+
+}
+
+.first_div_rewards_heading span{
+  font-weight: 600;
+  font-size: 16px;
+  color: #060E20;
+
+}
+
+.first_div_rewards_heading p{
+  margin-top: 2px;
+  font-size: 14px;
+  color: #6A6E79;
+}
+
+.empty_box .bi-lightbulb{
+  font-size: 24px;
+  color: #099918;
+}
+
+.rewards_main_div{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.second_div_rewards{
+    display: flex;
+}
+
+.number_of_projects, .number_of_rewards_points{
+    background: #fff;
+    border-radius: 6px;
+    padding: 5px 10px;
+    font-size: 12px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+}
+
+.number_of_rewards_points{
+    margin-left: 20px;
+}
+
+.rewardsTableDiv{
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    border-radius: 6px;
+    padding: 20px;
+    margin-top: 50px!important;
+}
+.check_icon i::before{
+  background: #099918;
+  color: #fff;
+  font-size: 24px;
+  border-radius: 50%;
+}
+
+.text-gray{
+  color: #64748B;
+}
+
+.heading_p{
+  margin-bottom: 30px;
+}
+
+.normal-rewards-points{
+  color: #0BA48A;
+  font-weight: 600;
+}
+
+.small-text{
+  font-size: 10px;
+  font-weight: 500;
+}
+
+.rewards_tube_image{
+  border-radius: 6px;
+    width: 50px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+}
+.rewards_tube_image.milestone_bg{
+    width: 43px;
+    background: #fff;
+    height: 43px;
+    padding: 0px;
+}
+
+#rewards_table_div{
+  margin-top: 40px;
+}
+
+
+.nominate_btn{
+  background:#086BFA ;
+  color: #fff;
+  border-radius: 6px;
+  border:none;
+  padding: 5px 10px;
+  margin-right: 10px;
+  font-size: 12px;
+  margin-bottom: 5px;
+}
+
+.coo_approval_btn{
+  background: #FF7800;
+  color: #fff;
+  border-radius: 6px;
+  border:none;
+  padding: 5px 10px;
+  font-size: 12px;
+  margin-right: 10px;
+
+}
+
+.nominate_btn.nominated {
+  background-color: #ede8e8; 
+  color: #0BA48A;
+  font-weight: 600;
+}
+.coo_approval_btn.approved {
+  background-color: #ede8e8;
+  color: #0BA48A;
+  font-weight: 600;
+}
+
+.number_of_projects i{
+  color: #086BFA;
+}
+.number_of_rewards_points i{
+  color: #FF7800;
+}
+
+.champions_bg{
+  width: 30px;
+  box-shadow: none!important;
+}
+
+.cfo_approval_btn {
+  color: #fff;
+  background-color: #8F13F1;
+   border-radius: 6px;
+  border:none;
+  padding: 5px 10px;
+  font-size: 12px;
+}
+
+.cfo_approval_btn.approved{
+   background-color: #ede8e8;
+  color: #0BA48A;
+  font-weight: 600;
+}
+
+.prideofSteel{
+  width: 26px;
+  box-shadow: none!important;
+}
+
+.heading_6{
+  min-width: 23vw;
+}
